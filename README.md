@@ -15,3 +15,6 @@ Pasos para ejecutar el Backend
 Enlace documentacion de la api
 1. EJecutar el proyecto spring boot
 2. http://localhost:8080/swagger-ui/index.html
+
+Modelo entidad relacion
+https://drive.google.com/file/d/1nNzrWUlpLJIB7BowueHDpP0EDemtDZAj/view?usp=sharing
