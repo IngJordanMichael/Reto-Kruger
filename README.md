@@ -7,9 +7,10 @@ Descripción: Este backend contiene 2 roles administrador y empleado, por un lad
 
 Pasos para ejecutar el Backend
 1. Descargar el Backend de Github
-2. Abrir el proyecto de spring boot con cualquier entorno de ejecución
-3. Crear la base de datos vacunación en PostgreSQL
-4. Compilar
+2. Abrir el proyecto de spring boot con intellij idea o cualquier otro entorno 
+3. Configurar en application. properties username, password para el acceso a PostgreSQL
+4. Crear la base de datos vacunacion en PostgreSQL
+5. Compilar
 
 Enlace documentacion de la api
 1. EJecutar el proyecto spring boot
